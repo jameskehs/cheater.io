@@ -11,7 +11,7 @@
   },
   "content_scripts": [
     {
-      "js": ["dist/js/index.js"],
+      "js": ["main.js"],
       "matches": ["https://colonist.io/*"]
     }
   ]
